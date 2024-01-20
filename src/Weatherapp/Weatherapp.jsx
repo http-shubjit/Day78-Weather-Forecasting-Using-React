@@ -9,7 +9,7 @@ import rain_icon from '../Assets/rain.png'
 import snow_icon from '../Assets/snow.png'
 import wind_icon from '../Assets/wind.png'
 const Weatherapp = () => {
-  let apikey="6332bf65093ac5324487608148f10894"
+  let apikey="Tumhara api key dena"
   const [wicon,setwicon]=useState(cloud_icon)
 
   const search = async()=>{
